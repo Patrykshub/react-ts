@@ -30,4 +30,4 @@ const NewTodo: React.FC<NewTodoPropsI> = (props) => {
   );
 };
 
-export default NewTodo;
+export default NewTodo
